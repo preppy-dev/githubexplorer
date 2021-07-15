@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/preppy-dev/githubexplorer/static/js/main.5cf57b4f.chunk.js",
+    "main.js.map": "/preppy-dev/githubexplorer/static/js/main.5cf57b4f.chunk.js.map",
+    "runtime-main.js": "/preppy-dev/githubexplorer/static/js/runtime-main.57fa2038.js",
+    "runtime-main.js.map": "/preppy-dev/githubexplorer/static/js/runtime-main.57fa2038.js.map",
+    "static/js/2.1c5263d8.chunk.js": "/preppy-dev/githubexplorer/static/js/2.1c5263d8.chunk.js",
+    "static/js/2.1c5263d8.chunk.js.map": "/preppy-dev/githubexplorer/static/js/2.1c5263d8.chunk.js.map",
+    "index.html": "/preppy-dev/githubexplorer/index.html",
+    "static/js/2.1c5263d8.chunk.js.LICENSE.txt": "/preppy-dev/githubexplorer/static/js/2.1c5263d8.chunk.js.LICENSE.txt",
+    "static/media/github-background.7fa45dda.svg": "/preppy-dev/githubexplorer/static/media/github-background.7fa45dda.svg",
+    "static/media/logo.469cc31b.svg": "/preppy-dev/githubexplorer/static/media/logo.469cc31b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57fa2038.js",
+    "static/js/2.1c5263d8.chunk.js",
+    "static/js/main.5cf57b4f.chunk.js"
+  ]
+}
